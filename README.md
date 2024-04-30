@@ -9,5 +9,6 @@ Repository containing projects done during the data analysis course
 6) Negozio vegano (python)
 7) Disastri Aerei (python, numpy-pandas-matplotlib)
 8) Segmentazione della clientela per una campagna di marketing di un'azienda di servizi finanziari (nlp)
-9) Indicatori clienti di una banca (SQl)
+9) Analisi dei Clienti di una Banca (SQl)
+10) BIG DATA ,Analisi del consenso sul Bitcoin (Databricks)
 
